@@ -2799,7 +2799,7 @@ ul.amounts li {
 /*panel heading color*/
 .panel-heading,.modal-header{
     background: #F7F7F7;
-    color: #007AFF;
+    color: darkgray;
 
 }
 .panel-heading h3{
@@ -2938,7 +2938,7 @@ ul.amounts li {
 }
 
 .tab-bg-primary {
-    background: #007AFF;    
+    background: darkgray;    
     border-bottom: none;
 }
 
@@ -2963,7 +2963,7 @@ ul.amounts li {
 }
 
 .panel-heading .nav > li.active > a, .panel-heading .nav > li > a:hover {
-    color: #007AFF;
+    color: darkgray;
     background: #fff;
 }
 
